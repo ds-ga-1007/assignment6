@@ -1,0 +1,2 @@
+Contents of the console:
+Hello World:  Wed Nov  2 23:16:08 2016
