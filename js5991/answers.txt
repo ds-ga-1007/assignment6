@@ -1,0 +1,4 @@
+  File "E:\DS1007\workplace\js5991\my_package\assignment6.py", line 6
+    print "Hello World: ", time.strftime("%c")
+                        ^
+SyntaxError: invalid syntax
