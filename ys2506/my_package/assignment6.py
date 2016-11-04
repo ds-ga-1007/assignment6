@@ -3,10 +3,10 @@ Created on Nov 4, 2016
 
 @author: shiyanan
 
-def hello_world():
-    print "Hello World: ", time.strftime("%c")
 
 '''
+def hello_world():
+    print "Hello World: ", time.strftime("%c")
 #
 # Python hello world
 #
